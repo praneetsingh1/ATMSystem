@@ -1,0 +1,25 @@
+Enter your choice of ATM: 
+ATM1_A
+Enter your card: 
+A11
+This card is expired and returned to you.
+Enter your card: 
+B111
+This card is not supported by this ATM
+Enter your card: 
+A12
+The card is accepted. Please enter your password.
+Enter your password: 
+%^&*
+This is a wrong password. Enter your password: 
+mypassword
+Authorization is accepted. Start your transaction by entering the amount to withdraw. 
+100
+This amount exceeds the maximum amount you can withdraw per transaction. Please enter the amount or quit.
+25
+$25.00 is withdrawn from  your account. The remaining balance of this account is $15.00. If you have more transactions, enter the amount or quit.
+25
+The amount exceeds the current balance. Enter another amount or quit.
+15
+$15.00 is withdrawn from  your account. The remaining balance of this account is $0.00. If you have more transactions, enter the amount or quit.
+quit
